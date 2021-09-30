@@ -1,8 +1,8 @@
 {
-  "name": "GROOVITY! Kid's App",
-  "short_name": "GROOVITY!",
-  "lang": "en-US",
-  "start_url": "./index.html",
+  "name": "TypSchrift",
+  "short_name": "TypSchrift!",
+  "lang": "nl-BE",
+  "start_url": "https://sgkei-scholen.webflow.io/apps-draw/typschrift",
   "display": "standalone",
   "background_color": "#EEEEEE",
   "theme_color": "#EEEEEE",
